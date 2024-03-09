@@ -1,0 +1,12 @@
+CREATE DATABASE employes_new_db;
+
+USE employes_new_db;
+
+CREATE TABLE IF NOT EXISTS employes
+(
+  id INTEGER NOT NULL AUTO_INCREMENT,
+  name VARCHAR(128) NOT NULL,
+  position VARCHAR(128) NOT NULL,
+  phone VARCHAR(20) NOT NULL,
+  PRIMARY KEY (id)
+);
