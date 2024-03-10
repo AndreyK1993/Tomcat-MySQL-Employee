@@ -29,9 +29,9 @@
 </head>
 <body>
     <center>
-        <h1>Book Store</h1>
+        <h1>Employes</h1>
         <h3>
-            <a href="<%=request.getContextPath()%>/list"  class="greenButton">List Books</a>
+            <a href="<%=request.getContextPath()%>/list"  class="greenButton">List Employes</a>
         </h3>
     </center>
     <div align="center">
@@ -45,7 +45,7 @@
             <caption>
                 <h3>
                     <c:if test="${employee != null}">
-                        Edit Book
+                        Edit Employee
                     </c:if>
                     <c:if test="${employee == null}">
                         Add New Employee
@@ -56,15 +56,15 @@
                     <input type="hidden" name="id" value="<c:out value='${employee.id}' />" />
                 </c:if>
             <tr>
-                <th>Title: </th>
+                <th>Name: </th>
                 <td>
-                    <input type="text" name="title" size="45"
+                    <input type="text" name="name" size="45"
                             value="<c:out value='${employee.name}' />"
                         />
                 </td>
             </tr>
             <tr>
-                <th>Author: </th>
+                <th>Position: </th>
                 <td>
                     <input type="text" name="position" size="45"
                             value="<c:out value='${employee.position}' />"
@@ -72,7 +72,7 @@
                 </td>
             </tr>
             <tr>
-                <th>Price: </th>
+                <th>Phone: </th>
                 <td>
                     <input type="text" name="phone" size="5"
                             value="<c:out value='${employee.phone}' />"

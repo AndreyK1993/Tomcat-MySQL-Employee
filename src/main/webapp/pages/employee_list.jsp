@@ -52,10 +52,10 @@
     <center>
         <h1>Book Store</h1>
         <h3>
-        <!-- <a href="<%=request.getContextPath()%>/new">Add New Book</a> -->
-            <a href="<%=request.getContextPath()%>/new" class="greenButton">Add Book</a>
+        <!-- <a href="<%=request.getContextPath()%>/new">Add New Employee</a> -->
+            <a href="<%=request.getContextPath()%>/new" class="greenButton">Add Employee</a>
             &nbsp;&nbsp;&nbsp;
-            <a href="<%=request.getContextPath()%>/list">List Books</a>
+            <a href="<%=request.getContextPath()%>/list">List Employes</a>
         </h3>
     </center>
     <div align="center">
@@ -63,9 +63,9 @@
             <caption><h2>Books</h2></caption>
             <tr>
                 <th>ID</th>
-                <th>Title</th>
-                <th>Author</th>
-                <th>Price</th>
+                <th>Nmae</th>
+                <th>Position</th>
+                <th>Phone</th>
                 <th>Actions</th>
             </tr>
             <c:forEach var="employee" items="${listEmployee}">

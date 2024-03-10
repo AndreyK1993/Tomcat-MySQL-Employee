@@ -7,7 +7,7 @@
     <display-name>Employes Web App</display-name>
     <servlet>
         <servlet-name>EmployeeController</servlet-name>
-        <servlet-class>org.example.app.controller.EmployeeController</servlet-class>
+        <servlet-class>app.controller.EmployeeController</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>EmployeeController</servlet-name>
