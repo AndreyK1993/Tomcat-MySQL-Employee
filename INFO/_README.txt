@@ -34,8 +34,8 @@ Run > Edit Configurations... > + > Smart Tomcat
 Вкладка Configuration.
 
 В Name пишемо, наприклад, employes-app.
-
-Клікаємо Configure. Стаємо на Tomcat Server. Клікаємо + .
+?.l.К;
+/лікаємо Configure. Стаємо на Tomcat Server. Клікаємо + .
 Вибираємо папку необхідного Apache Tomcat.
 Краще вибрати сервер, який встановлений із zip-файлу,
 оскільки не вимагає зайвої аутентифікації при запуску.
