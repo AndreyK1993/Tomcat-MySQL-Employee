@@ -63,7 +63,7 @@
             <caption><h2>Books</h2></caption>
             <tr>
                 <th>ID</th>
-                <th>Nmae</th>
+                <th>Name</th>
                 <th>Position</th>
                 <th>Phone</th>
                 <th>Actions</th>
