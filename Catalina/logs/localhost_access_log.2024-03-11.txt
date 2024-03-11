@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [11/Mar/2024:18:03:24 +0200] "GET /Tomcat-MySQL-Employee HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [11/Mar/2024:18:03:24 +0200] "GET /Tomcat-MySQL-Employee/ HTTP/1.1" 404 798
+0:0:0:0:0:0:0:1 - - [11/Mar/2024:18:08:46 +0200] "GET /Tomcat-MySQL-Employee HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [11/Mar/2024:18:08:46 +0200] "GET /Tomcat-MySQL-Employee/ HTTP/1.1" 404 798
+0:0:0:0:0:0:0:1 - - [11/Mar/2024:18:09:33 +0200] "GET / HTTP/1.1" 404 703
+0:0:0:0:0:0:0:1 - - [11/Mar/2024:18:10:51 +0200] "GET / HTTP/1.1" 404 703
+0:0:0:0:0:0:0:1 - - [11/Mar/2024:18:14:09 +0200] "GET /Tomcat-MySQL-Employee HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [11/Mar/2024:18:14:09 +0200] "GET /Tomcat-MySQL-Employee/ HTTP/1.1" 404 798
+0:0:0:0:0:0:0:1 - - [11/Mar/2024:18:16:07 +0200] "GET /Tomcat-MySQL-Employee HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [11/Mar/2024:18:16:10 +0200] "GET /Tomcat-MySQL-Employee/ HTTP/1.1" 200 2047
