@@ -166,3 +166,138 @@
  java.base/java.lang.Thread.run(Thread.java:1623)
 11-Mar-2024 18:16:43.199 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
 11-Mar-2024 18:16:43.213 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+11-Mar-2024 18:20:09.659 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Имя версии сервера:    Apache Tomcat/10.1.19
+11-Mar-2024 18:20:09.668 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Сервер собран:         Feb 14 2024 19:36:50 UTC
+11-Mar-2024 18:20:09.672 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Номер версии сервера:  10.1.19.0
+11-Mar-2024 18:20:09.673 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+11-Mar-2024 18:20:09.673 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия ОС:             10.15.7
+11-Mar-2024 18:20:09.673 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Архитектура:           x86_64
+11-Mar-2024 18:20:09.674 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Users/andrey/Library/Java/JavaVirtualMachines/openjdk-20.0.2/Contents/Home
+11-Mar-2024 18:20:09.675 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия JVM:            20.0.2+9-78
+11-Mar-2024 18:20:09.675 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Производитель JVM:     Oracle Corporation
+11-Mar-2024 18:20:09.675 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/andrey/Desktop/Java Pro/Практика/Tomcat-MySQL-Employee/Tomcat-MySQL-Employee/Catalina
+11-Mar-2024 18:20:09.676 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/andrey/Desktop/Java Pro/Практика/apache-tomcat-10.1.19
+11-Mar-2024 18:20:09.692 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+11-Mar-2024 18:20:09.692 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+11-Mar-2024 18:20:09.692 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+11-Mar-2024 18:20:09.693 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+11-Mar-2024 18:20:09.693 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+11-Mar-2024 18:20:09.694 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/andrey/Desktop/Java Pro/Практика/apache-tomcat-10.1.19
+11-Mar-2024 18:20:09.694 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/andrey/Desktop/Java Pro/Практика/Tomcat-MySQL-Employee/Tomcat-MySQL-Employee/Catalina
+11-Mar-2024 18:20:09.696 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/andrey/Desktop/Java Pro/Практика/Tomcat-MySQL-Employee/Tomcat-MySQL-Employee/Catalina/temp
+11-Mar-2024 18:20:09.696 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/andrey/Desktop/Java Pro/Практика/Tomcat-MySQL-Employee/Tomcat-MySQL-Employee/Catalina/conf/logging.properties
+11-Mar-2024 18:20:09.696 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+11-Mar-2024 18:20:09.696 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=50689:/Applications/IntelliJ IDEA CE.app/Contents/bin
+11-Mar-2024 18:20:09.696 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+11-Mar-2024 18:20:09.697 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+11-Mar-2024 18:20:09.697 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+11-Mar-2024 18:20:09.703 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/andrey/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+11-Mar-2024 18:20:10.836 INFO [main] org.apache.coyote.AbstractProtocol.init Инициализация ProtocolHandler ["http-nio-8080"]
+11-Mar-2024 18:20:10.867 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1956] milliseconds
+11-Mar-2024 18:20:10.932 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+11-Mar-2024 18:20:10.933 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.19]
+11-Mar-2024 18:20:10.950 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [/Users/andrey/Desktop/Java Pro/Практика/Tomcat-MySQL-Employee/Tomcat-MySQL-Employee/Catalina/conf/Catalina/localhost/Tomcat-MySQL-Employee.xml]
+11-Mar-2024 18:20:13.671 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+11-Mar-2024 18:20:13.773 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [/Users/andrey/Desktop/Java Pro/Практика/Tomcat-MySQL-Employee/Tomcat-MySQL-Employee/Catalina/conf/Catalina/localhost/Tomcat-MySQL-Employee.xml] has finished in [2 820] ms
+11-Mar-2024 18:20:13.780 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+11-Mar-2024 18:20:13.805 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [2935] milliseconds
+11-Mar-2024 18:21:28.174 WARNING [http-nio-8080-exec-2] app.repository.impl.EmployeeRepository.readById Table 'employes_new_db.employees' doesn't exist
+	java.sql.SQLSyntaxErrorException: Table 'employes_new_db.employees' doesn't exist
+		at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:121)
+		at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+		at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:912)
+		at com.mysql.cj.jdbc.ClientPreparedStatement.executeQuery(ClientPreparedStatement.java:968)
+		at app.repository.impl.EmployeeRepository.readById(EmployeeRepository.java:62)
+		at app.controller.EmployeeController.showEditForm(EmployeeController.java:88)
+		at app.controller.EmployeeController.doGet(EmployeeController.java:32)
+		at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564)
+		at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:673)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1623)
+11-Mar-2024 18:23:47.549 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+11-Mar-2024 18:23:47.556 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+11-Mar-2024 18:23:47.578 WARNING [Thread-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [Tomcat-MySQL-Employee] registered the JDBC driver [com.mysql.cj.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+11-Mar-2024 18:23:47.580 WARNING [Thread-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [Tomcat-MySQL-Employee] appears to have started a thread named [mysql-cj-abandoned-connection-cleanup] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+ java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1847)
+ java.base/java.lang.ref.ReferenceQueue.await(ReferenceQueue.java:71)
+ java.base/java.lang.ref.ReferenceQueue.remove0(ReferenceQueue.java:143)
+ java.base/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:218)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:93)
+ java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+ java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+ java.base/java.lang.Thread.run(Thread.java:1623)
+11-Mar-2024 18:23:47.596 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+11-Mar-2024 18:23:47.607 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+11-Mar-2024 18:23:55.866 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Имя версии сервера:    Apache Tomcat/10.1.19
+11-Mar-2024 18:23:55.875 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Сервер собран:         Feb 14 2024 19:36:50 UTC
+11-Mar-2024 18:23:55.876 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Номер версии сервера:  10.1.19.0
+11-Mar-2024 18:23:55.876 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+11-Mar-2024 18:23:55.877 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия ОС:             10.15.7
+11-Mar-2024 18:23:55.877 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Архитектура:           x86_64
+11-Mar-2024 18:23:55.877 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Users/andrey/Library/Java/JavaVirtualMachines/openjdk-20.0.2/Contents/Home
+11-Mar-2024 18:23:55.877 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия JVM:            20.0.2+9-78
+11-Mar-2024 18:23:55.877 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Производитель JVM:     Oracle Corporation
+11-Mar-2024 18:23:55.877 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/andrey/Desktop/Java Pro/Практика/Tomcat-MySQL-Employee/Tomcat-MySQL-Employee/Catalina
+11-Mar-2024 18:23:55.878 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/andrey/Desktop/Java Pro/Практика/apache-tomcat-10.1.19
+11-Mar-2024 18:23:55.891 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+11-Mar-2024 18:23:55.891 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+11-Mar-2024 18:23:55.891 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+11-Mar-2024 18:23:55.892 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+11-Mar-2024 18:23:55.892 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+11-Mar-2024 18:23:55.892 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/andrey/Desktop/Java Pro/Практика/apache-tomcat-10.1.19
+11-Mar-2024 18:23:55.892 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/andrey/Desktop/Java Pro/Практика/Tomcat-MySQL-Employee/Tomcat-MySQL-Employee/Catalina
+11-Mar-2024 18:23:55.892 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/andrey/Desktop/Java Pro/Практика/Tomcat-MySQL-Employee/Tomcat-MySQL-Employee/Catalina/temp
+11-Mar-2024 18:23:55.892 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/andrey/Desktop/Java Pro/Практика/Tomcat-MySQL-Employee/Tomcat-MySQL-Employee/Catalina/conf/logging.properties
+11-Mar-2024 18:23:55.892 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+11-Mar-2024 18:23:55.893 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=50723:/Applications/IntelliJ IDEA CE.app/Contents/bin
+11-Mar-2024 18:23:55.893 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+11-Mar-2024 18:23:55.893 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+11-Mar-2024 18:23:55.893 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+11-Mar-2024 18:23:55.901 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/andrey/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+11-Mar-2024 18:23:56.573 INFO [main] org.apache.coyote.AbstractProtocol.init Инициализация ProtocolHandler ["http-nio-8080"]
+11-Mar-2024 18:23:56.610 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1442] milliseconds
+11-Mar-2024 18:23:56.674 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+11-Mar-2024 18:23:56.675 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.19]
+11-Mar-2024 18:23:56.690 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [/Users/andrey/Desktop/Java Pro/Практика/Tomcat-MySQL-Employee/Tomcat-MySQL-Employee/Catalina/conf/Catalina/localhost/Tomcat-MySQL-Employee.xml]
+11-Mar-2024 18:24:00.026 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+11-Mar-2024 18:24:00.146 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [/Users/andrey/Desktop/Java Pro/Практика/Tomcat-MySQL-Employee/Tomcat-MySQL-Employee/Catalina/conf/Catalina/localhost/Tomcat-MySQL-Employee.xml] has finished in [3 452] ms
+11-Mar-2024 18:24:00.152 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+11-Mar-2024 18:24:00.175 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [3563] milliseconds
+11-Mar-2024 18:45:46.666 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+11-Mar-2024 18:45:46.677 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+11-Mar-2024 18:45:46.712 WARNING [Thread-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [Tomcat-MySQL-Employee] registered the JDBC driver [com.mysql.cj.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+11-Mar-2024 18:45:46.721 WARNING [Thread-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [Tomcat-MySQL-Employee] appears to have started a thread named [mysql-cj-abandoned-connection-cleanup] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+ java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1847)
+ java.base/java.lang.ref.ReferenceQueue.await(ReferenceQueue.java:71)
+ java.base/java.lang.ref.ReferenceQueue.remove0(ReferenceQueue.java:143)
+ java.base/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:218)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:93)
+ java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+ java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+ java.base/java.lang.Thread.run(Thread.java:1623)
+11-Mar-2024 18:45:46.745 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+11-Mar-2024 18:45:46.766 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
