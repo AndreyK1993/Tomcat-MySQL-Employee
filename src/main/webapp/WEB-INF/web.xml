@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee
         http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
          id="WebApp_ID" version="3.1">
-    <display-name>Employes Web App</display-name>
+    <display-name>Employees Web App</display-name>
     <servlet>
         <servlet-name>EmployeeController</servlet-name>
         <servlet-class>app.controller.EmployeeController</servlet-class>

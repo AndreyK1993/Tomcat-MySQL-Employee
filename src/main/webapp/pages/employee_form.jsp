@@ -3,7 +3,7 @@
 <%@ taglib prefix="c" uri="jakarta.tags.core" %>
 <html>
 <head>
-    <title>Books Store</title>
+    <title>Employee</title>
 <style>
         .greenButton {
             background-color:#44c767;
