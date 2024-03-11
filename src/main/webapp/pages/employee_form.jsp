@@ -74,7 +74,7 @@
             <tr>
                 <th>Phone: </th>
                 <td>
-                    <input type="text" name="phone" size="5"
+                    <input type="text" name="phone" size="45"
                             value="<c:out value='${employee.phone}' />"
                     />
                 </td>
